@@ -1,0 +1,6 @@
+5
+Chick Hicks,80,220,120,300,Cogsworth
+Doc Hudson,65,105,225,250,Dopey
+Fillmore,11,102,35,325,Eeyore
+Flo,255,255,194,300,Nala
+Luigi,135,206,235,350,Rafiki
